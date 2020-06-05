@@ -1,0 +1,1 @@
+Falta agregar validaciones y uso de try catch para capturar errores de las constantes con await.
